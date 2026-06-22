@@ -24,7 +24,7 @@ A simple and responsive Weather Application built using **HTML**, **CSS**, and *
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/umermemon1/Weather-App.git
+git clone https://github.com/umerjs/Weather-App.git
 ```
 
 2. Navigate to the project folder:
